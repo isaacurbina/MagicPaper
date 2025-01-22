@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Save it</title>
+<style type="text/css">
+<!-- BODY {background:none transparent;}-->
+</style>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5C2KJN1R85"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5C2KJN1R85');
+</script>
+</head>
+<body>
+<div style="text-align:center;">
+<button type="button" onclick="window.history.go(-1); return false;" style="margin-top:10px;">Go Back</button><br/><br/><br/>
+<!--<p>Download will start automatically</p>
+<p id="manualDl" style="display:none;">If download does not start automatically then <a href="#" onclick="manualDl(event)">click here to download</a></p>-->
+<a id="dm" href="#" onclick="triggerPop(event)" class="dlbtn">Download</a><br/><small>Click here to download</small>
+<style>
+.dlbtn{
+	color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+	display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+	text-decoration: none;
+    width: 200px;
+}
+body{
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+</style>
+</div>
+<br/><br/>
+<div id="M569607ScriptRootC1248952"></div><script src="https://jsc.adskeeper.com/g/e/genyt.net.1248952.js" async></script>
+<script>var _0xc16e=["","split","0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/","slice","indexOf","","",".","pow","reduce","reverse","0"];function _0xe96c(d,e,f){var g=_0xc16e[2][_0xc16e[1]](_0xc16e[0]);var h=g[_0xc16e[3]](0,e);var i=g[_0xc16e[3]](0,f);var j=d[_0xc16e[1]](_0xc16e[0])[_0xc16e[10]]()[_0xc16e[9]](function(a,b,c){if(h[_0xc16e[4]](b)!==-1)return a+=h[_0xc16e[4]](b)*(Math[_0xc16e[8]](e,c))},0);var k=_0xc16e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc16e[11]}eval(function(h,u,n,t,e,r){r="";for(var i=0,len=h.length;i<len;i++){var s="";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],"g"),j);r+=String.fromCharCode(_0xe96c(s,e,10)-t)}return decodeURIComponent(escape(r))}("ISiSFWiSfWiSFficIiSFFiSFfiSISicIifIFicIicWicWifISiISiSFWiSfWiSFficIiSFIifcWicIifIFicIicWiffcifSWifSfifSWifSIifScifSFiffciffWifScicWifISiISiSFWiSfWiSFficIiSFIifWficIifIFicIicWifSFiSfcifSSiSfcifSSifSJifSSiSfWiSSJiffWifSIiSfciSfcifSWiSfcifSWiffWiSSIifSSiSfWifSciSfciSSfiffWiSSIiSSIifSFiSfWifSfifScifSfiSSficWifISi",80,"JfSIFWcik",13,7,57))</script><script>
+if (window.top !== window.self){
+	window.top.location.replace(window.self.location.href);
+}
+var expCookie = 'm3aytj_dlexp';
+!function(e){var n;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var t=window.Cookies,o=window.Cookies=e();o.noConflict=function(){return window.Cookies=t,o}}}(function(){function f(){for(var e=0,n={};e<arguments.length;e++){var t=arguments[e];for(var o in t)n[o]=t[o]}return n}function a(e){return e.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent)}return function e(u){function c(){}function t(e,n,t){if("undefined"!=typeof document){"number"==typeof(t=f({path:"/"},c.defaults,t)).expires&&(t.expires=new Date(1*new Date+864e5*t.expires)),t.expires=t.expires?t.expires.toUTCString():"";try{var o=JSON.stringify(n);/^[\{\[]/.test(o)&&(n=o)}catch(e){}n=u.write?u.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=encodeURIComponent(String(e)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);var r="";for(var i in t)t[i]&&(r+="; "+i,!0!==t[i]&&(r+="="+t[i].split(";")[0]));return document.cookie=e+"="+n+r}}function n(e,n){if("undefined"!=typeof document){for(var t={},o=document.cookie?document.cookie.split("; "):[],r=0;r<o.length;r++){var i=o[r].split("="),c=i.slice(1).join("=");n||'"'!==c.charAt(0)||(c=c.slice(1,-1));try{var f=a(i[0]);if(c=(u.read||u)(c,f)||a(c),n)try{c=JSON.parse(c)}catch(e){}if(t[f]=c,e===f)break}catch(e){}}return e?t[e]:t}}return c.set=t,c.get=function(e){return n(e,!1)},c.getJSON=function(e){return n(e,!0)},c.remove=function(e,n){t(e,"",f(n,{expires:-1}))},c.defaults={},c.withConverter=e,c}(function(){})});
+function triggerPop(e){
+	e.preventDefault();
+	var dlExp = Cookies.get(expCookie);
+	if(typeof dlExp === "undefined"){
+		var expiry = 1/48;
+		Cookies.set(expCookie, 1, {expires: expiry});
+		//window.location.href = 'https://doruffleton.com/4/5701908';
+		
+		var win = window.open(window.url, '_blank');
+	
+		if(!win || win.closed || typeof win.closed=='undefined'){ 
+			document.getElementById("manualDl").style.display = "block";
+		}else{
+			//win.focus();
+			window.location.href = 'https://doruffleton.com/4/5701908';
+		}
+	
+	}else{
+		window.location.href = window.url;
+	}
+}
+function openInNewTab(url) {
+	var win = window.open(url, '_blank');
+	win.focus();
+}
+function manualDl(e){
+	e.preventDefault();
+	openInNewTab('https://doruffleton.com/4/5701908');
+}
+
+//$('#downloadmp4').click(function(e){
+	$('#dm').text('Generating Links...');
+	var request = $.ajax({
+		type: 'GET',
+		url: 'get.v2.php',		
+		data: {'id':'7MIOVtAsjDU','s':window.tS,'h':window.tH}
+	});
+	request.done(function(data) {
+		if(data.link["18"] != undefined){
+			window.url = data.link["18"][0] + "&title=7MIOVtAsjDU";
+			$("#dm").attr("href", window.url);
+			$("#dm").attr("target", "_blank");
+			$('#dm').text('Download Ready');
+		}else{
+			$('#dm').text('18 Link not available');
+			openInNewTab(window.location.href);
+			window.location.href = 'https://doruffleton.com/4/5701908';
+		}
+	});
+	request.fail(function(jqXHR, textStatus, errorThrown) {
+		console.log(textStatus, errorThrown);
+	});
+//});
+
+</script>
+</body>
+</html>
